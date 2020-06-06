@@ -1,0 +1,92 @@
+body{
+	margin:0;
+}
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #FC671D;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:white;
+color:black;
+	}
+	img{
+		 position: bottom;
+		 width:1000px;
+		 height:400px;
+	}
+	body{
+		background-color:black;
+	}
+#page2
+ img{
+	 position:absolute;
+   top:350px;
+	left:109px;
+	
+}
+button {
+    background-color: #FC671D;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    font-size: 16px;
+	position:absolute;
+	top:300px;
+	left:494px;
+      border-radius: 27px;
+}
+ button:hover {
+	opacity: 0.8;
+	
+}
+input{
+	border: 1px solid #ccc;
+float:center;
+    border-radius: 27px;
+	position: absolute;
+    left: 1122px;
+    top: 9px;
+    width: 173px;
+    height: 34px;
+}
+.menue{
+		margin:0px;
+
+}
+textarea{ 
+	border-radius: 27px;
+	
+}
+li.signin{
+	
+float:center;
+   display: block;
+    color: black;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+	position: absolute;
+    left: 1334px;
+    top: 9px;
+    width: 173px;
+    height: 34px;
+	
+}
+li.signin:hover{
+	background-color:blue;                                                                                                                                                                                                                                                                                                                                         
+}
